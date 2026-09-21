@@ -19,7 +19,6 @@
             p=cu;
             cu=next;
         }
-
         return p;
     }
 }
